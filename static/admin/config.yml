@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  name: github
+  repo: MuhammadSadiqHanif/gatsby-example
+
   
 media_folder: static/assets
 public_folder: assets
